@@ -1,4 +1,4 @@
-## CS 380D Distributed Systems (Sprig 2020)
+## CS 380D Distributed Systems (Spring 2020)
 
 Welcome to CS 380D Distributed Systems. This is a course
 designed to expose graduate students to the basics of distributed
