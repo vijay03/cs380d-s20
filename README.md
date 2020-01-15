@@ -15,18 +15,19 @@ taken and excelled in this class.
 
 This course will introduce students to
   a range of exciting topics including:
-  <ul>
-    <li>Basics of Virtual Machines</li>
-    <li>Basics of Containers</li>
-    <li>How CPU is Virtualized</li>
-    <li>How Storage is Virtualized</li>
-    <li>How Network is Virtualized</li>
-    <li>Nested Virtualization</li>
-    <li>Hardware Features Assisting Virtualization</li>
-    <li>Deploying Virtual Machines</li>
-    <li>Orchestrating Containers</li>
-    <li>Datacenters and Virtualization</li>
-  </ul>
+
+- State machines
+- Consensus
+- Failure detectors
+- Distributed Storage Systems
+- Byzantine failures
+- Lamport clocks
+- Snapshots
+- Consistency models
+- Replication protocols
+- MapReduce
+
+and more! 
 
 **Piazza Link: [piazza.com/utexas/spring2020/cs380d](piazza.com/utexas/spring2020/cs380d)** 
 
