@@ -54,7 +54,7 @@ Office hours: TBD
 **20%** Midterm-1 <br>
 **20%** Midterm-2 <br>
 **30%** Project 1: Implementing a distributed key-value store <br>
-**30%** Project 2: Research project <b>
+**30%** Project 2: Research project <br>
 
 ### Extra Credit
 
