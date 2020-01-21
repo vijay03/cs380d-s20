@@ -35,7 +35,7 @@ and more!
 
 **Class Timing and Location**: TuTh 2 pm - 3:30pm in **GDC 6.202**
 
-**[Schedule](https://github.com/vijay03/cs380d-s20/blob/master/schedule.md)**
+**[Schedule](https://docs.google.com/spreadsheets/d/1UQN_mfcD4xsVc7xWFZWIZIwX7hNnYb3QBZxRVWpDpgc/edit?usp=sharing)**
 
 **Instructor: [Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/)**
 
