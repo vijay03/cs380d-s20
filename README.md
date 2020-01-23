@@ -47,7 +47,7 @@ Office hours: TBD, 6.436
 
 Email: sklee@cs.utexas.edu
 
-Office hours: TBD
+Office hours: Fri 4-5 PM, location TBD
 
 ### Grading 
 
