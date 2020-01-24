@@ -107,9 +107,10 @@ experiments, and write-up a conference style 12 page report.</p>
 
 ### Deadlines (tentative)
 
-**Mar 5** Project 1 due <br>
+**Mar 6** Project 1 due <br>
 **Mar 12** Midterm 1 <br>
 **May 7** Midterm 2 <br>
+**Apr 10** Project 2 proposal due <br>
 **May 8--15** Out-of-class presentations about project 2. Scheduled by
 appointment<br>
 **May 15** Report due about project 2 <br>
@@ -178,7 +179,7 @@ do it at all.
 ### Acknowledgements
 
 This course is inspired by (and uses material from) courses taught
-  by <a href="http://www.cs.unc.edu/~porter/">Don
+  by <a href="http://www.cs.cornell.edu/lorenzo/">Lorenzo Alvisi</a>, <a href="http://www.cs.unc.edu/~porter/">Don
   Porter</a>, <a href="www.cs.utexas.edu/~ans">Alison
   Norman</a>, <a href="http://pages.cs.wisc.edu/~remzi/">Remzi
   Arpaci-Dusseau</a>, <a href="http://www.cs.utexas.edu/~simon/">Simon
