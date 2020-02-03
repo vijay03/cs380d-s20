@@ -41,13 +41,13 @@ and more!
 
 Email: vijayc@utexas.edu
 
-Office hours: TBD, 6.436
+Office hours: Mon 3:30 to 4:30 PM, 6.436
 
 **TA: [Sekwon Lee](https://sekwonlee.github.io/)**
 
 Email: sklee@cs.utexas.edu
 
-Office hours: Fri 4-5 PM, location TBD
+Office hours: Fri 4-5 PM, GDC 6.404 (corner conf room near Vijay's office)
 
 ### Grading 
 
