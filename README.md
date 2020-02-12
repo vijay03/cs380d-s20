@@ -53,7 +53,7 @@ Office hours: Fri 4-5 PM, GDC 6.404 (corner conf room near Vijay's office)
 
 **20%** Midterm-1 <br>
 **20%** Midterm-2 <br>
-**30%** Project 1: Implementing a distributed key-value store <br>
+**30%** Project 1: Implementing a distributed system supporting a consistent global snapshot <br>
 **30%** Project 2: Research project <br>
 
 ### Extra Credit
@@ -97,8 +97,8 @@ the exam.
 <p>There will be two big projects in the course. Students will work in
   groups of 2--4 for both projects.</p>
 
-<p>The first project will involve building a distributed key-value
-store. More details forthcoming. </p>
+<p>The first project will involve building a distributed banking system
+supporting a global snapshot. More details are included in [project 1](https://github.com/vijay03/cs380d-s20/blob/master/projects/project1.pdf). </p>
 
 <p>The second project is an open-ended research project. The team will
 need to extend an existing research project or come up with a new
@@ -107,7 +107,7 @@ experiments, and write-up a conference style 12 page report.</p>
 
 ### Deadlines (tentative)
 
-**Mar 6** Project 1 due <br>
+**Mar 11** Project 1 due <br>
 **Mar 12** Midterm 1 <br>
 **May 7** Midterm 2 <br>
 **Apr 10** Project 2 proposal due <br>
