@@ -98,7 +98,7 @@ the exam.
   groups of 2--4 for both projects.</p>
 
 <p>The first project will involve building a distributed banking system
-supporting a global snapshot. More details are included in [project 1](https://github.com/vijay03/cs380d-s20/blob/master/projects/project1.pdf). </p>
+supporting a global snapshot. More details are included in <a href="https://github.com/vijay03/cs380d-s20/blob/master/projects/project1.pdf">project #1</a>. </p>
 
 <p>The second project is an open-ended research project. The team will
 need to extend an existing research project or come up with a new
