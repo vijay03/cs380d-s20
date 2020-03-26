@@ -33,7 +33,9 @@ and more!
 
 **Canvas Link: [https://utexas.instructure.com/courses/1276420](https://utexas.instructure.com/courses/1276420)** 
 
-**Class Timing and Location**: TuTh 2 pm - 3:30pm in **GDC 6.202**
+~~**Class Timing and Location**: TuTh 2 pm - 3:30pm in **GDC 6.202**~~
+
+**Zoom link: TBD**
 
 **[Schedule](https://docs.google.com/spreadsheets/d/1UQN_mfcD4xsVc7xWFZWIZIwX7hNnYb3QBZxRVWpDpgc/edit?usp=sharing)**
 
@@ -41,7 +43,7 @@ and more!
 
 Email: vijayc@utexas.edu
 
-Office hours: Mon 3:30 to 4:30 PM, 6.436
+Office hours: Mon 3:30 to 4:30 PM, ~~6.436~~ [Zoom](https://cs-utexas.zoom.us/j/5207594857)
 
 **TA: [Sekwon Lee](https://sekwonlee.github.io/)**
 
@@ -54,7 +56,7 @@ Office hours: Fri 4-5 PM, GDC 6.404 (corner conf room near Vijay's office)
 **20%** Midterm-1 <br>
 **20%** Midterm-2 <br>
 **30%** Project 1: Implementing a distributed system supporting a consistent global snapshot <br>
-**30%** Project 2: Research project <br>
+**30%** Project 2: Research/implementation project <br>
 
 ### Extra Credit
 
@@ -82,7 +84,7 @@ mid-term), and 0.25% for completing an official survey near the end of class.
 There will be two midterms. There will not be a final exam.
 
 Midterm 1: **Mar 12th** (in-class) <br>
-Midterm 2: **May 7th** (in-class, tentatively) <br>
+Midterm 2: **May 7th** (cancelled) <br>
 
 You will be allowed one A4 sheet of paper on which you can bring notes
 for the exam. Laptops, tablets, and ereaders are **banned** from
@@ -105,11 +107,13 @@ need to extend an existing research project or come up with a new
 idea. The team is required to build the prototype, perform
 experiments, and write-up a conference style 12 page report.</p>
 
+<p><b>UPDATE</b>: The second project can also be an implementation project. Students are encouraged to build part of the distributed systems that have been discussed in class so far. Students can also contribute in a meaningful way to open-source repositories related to distributed systems.</p>
+
 ### Deadlines (tentative)
 
 **Mar 11** Project 1 due <br>
 **Mar 12** Midterm 1 <br>
-**May 7** Midterm 2 <br>
+~~**May 7** Midterm 2~~<br>
 **Apr 10** Project 2 proposal due <br>
 **May 8--15** Out-of-class presentations about project 2. Scheduled by
 appointment<br>
