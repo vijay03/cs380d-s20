@@ -43,7 +43,7 @@ and more!
 
 Email: vijayc@utexas.edu
 
-Office hours: Mon 3:30 to 4:30 PM, ~~6.436~~ [Zoom](https://cs-utexas.zoom.us/j/5207594857)
+Office hours: Mon 3:30 to 4:30 PM, ~~6.436~~ [Zoom](https://utexas.zoom.us/j/130404114)
 
 **TA: [Sekwon Lee](https://sekwonlee.github.io/)**
 
