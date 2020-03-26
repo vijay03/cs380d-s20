@@ -35,7 +35,7 @@ and more!
 
 ~~**Class Timing and Location**: TuTh 2 pm - 3:30pm in **GDC 6.202**~~
 
-**Zoom link: TBD**
+**Classes will happen via [Zoom](https://utexas.zoom.us/j/116736038)**
 
 **[Schedule](https://docs.google.com/spreadsheets/d/1UQN_mfcD4xsVc7xWFZWIZIwX7hNnYb3QBZxRVWpDpgc/edit?usp=sharing)**
 
@@ -50,6 +50,13 @@ Office hours: Mon 3:30 to 4:30 PM, ~~6.436~~ [Zoom](https://cs-utexas.zoom.us/j/
 Email: sklee@cs.utexas.edu
 
 Office hours: Fri 4-5 PM, GDC 6.404 (corner conf room near Vijay's office)
+
+### Notes regarding course going online
+
+1. All lectures will be recorded online and will be available for later viewing. 
+2. Students are not required to synchronously attend the lectures -- we realize issues such as lack of internet connection may prevent this. 
+3. Class recordings are confidential to the class and only for educational purposes, that they should not be shared outside the class in any form, and that any violation of this will be subject to Student Misconduct proceedings.
+4. Please be muted during the Zoom meeting, and use the "Raise Hand" option if you would like to ask a question.
 
 ### Grading 
 
